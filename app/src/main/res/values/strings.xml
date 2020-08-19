@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DFir</string>
+    <string-array name="Names">
+        <item>Mahila Police Volunteer</item>
+        <item>Forest Guards</item>
+        <item>Constable</item>
+        <item>Head Constable</item>
+        <item>Inspector</item>
+        <item>Deputy Superintendent of Police</item>
+        <item>Lady Constable</item>
+        <item>Sub Inspector</item>
+        <item>Senior Inspector</item>
+
+    </string-array>
+</resources>
